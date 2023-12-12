@@ -19,3 +19,9 @@ The Sales Director has hired a data analytics Team to encounter the above proble
 6. Performed text and conditional formatting to highlight key points
 
 **Final Result**
+
+Preview of Customer Performance Report
+
+![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/03816ccc-725a-448f-ad56-ae8810362664)
+
+
