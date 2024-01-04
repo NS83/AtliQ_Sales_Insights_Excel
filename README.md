@@ -20,9 +20,10 @@ The Sales Director has hired a data analytics Team to encounter the above proble
 
 **Final Result**
 
-Preview of Customer Performance Report
+Customer Performance Report
 
 ![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/03816ccc-725a-448f-ad56-ae8810362664)
+
 ![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/d74ef077-9a86-4eac-9825-0da4c6f87690)
 
 
