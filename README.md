@@ -26,7 +26,6 @@ Customer Performance Report
 
 ![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/d74ef077-9a86-4eac-9825-0da4c6f87690)
 
-![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/e75dca4b-c918-494b-99b9-88d4b4bfc81f)
 
 
 Market Performance Report
