@@ -8,7 +8,7 @@ Additionally, the Sales team finds it extremely tedious to sift through these Ex
 
 **Solution**
 
-The Sales Director has hired a data analytics Team to encounter the above problems. Theteam has been provided with a requirement file that consists of a customer performance report (that includes comparison of nest sales by year) and market performance report (that includes a comparison of actual numbers with target).
+The Sales Director has hired a data analytics Team to encounter the above problems. The team has been provided with a requirement file that consists of a customer performance report (that includes comparison of nest sales by year) and market performance report (that includes a comparison of actual numbers with target).
 
 **Steps followed**
 1. Imported CSV files, performed ETL and data cleaning in Power Query
