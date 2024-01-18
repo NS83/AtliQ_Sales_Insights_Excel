@@ -15,7 +15,7 @@ The Sales Director has hired a data analytics Team to encounter the above proble
 2. Used data model to connect fact table with dimension tables
 3. Created a date table and added a fiscal year column
 4. Initiated creating the report using the Pivot table
-5. Added columns using dax mesured in Power Pivot
+5. Added columns using dax measures in Power Pivot
 6. Performed text and conditional formatting to highlight key points
 
 **Final Result**
