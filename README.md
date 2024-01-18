@@ -18,19 +18,25 @@ The Sales Director has hired a data analytics Team to encounter the above proble
 5. Added columns using dax measures in Power Pivot
 6. Performed text and conditional formatting to highlight key points
 
+
 **Final Result**
 
 Customer Performance Report
 
 ![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/03816ccc-725a-448f-ad56-ae8810362664)
+![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/b9dff3b5-abc4-4259-931e-e7453002ce36)
 
-![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/d74ef077-9a86-4eac-9825-0da4c6f87690)
+
 
 
 
 Market Performance Report
 
 ![image](https://github.com/NS83/AtliQ_Sales_Insights_Excel/assets/44031440/dd0b94b8-4d30-4abc-9804-7b6c7ce5aacd)
+
+
+
+The conclusion drawn from the report, indicating substantial growth in previous years but a 9.2% revenue shortfall in 2021, holds valuable insights for informed decision-making within the company. This information provides a foundation for strategic adjustments and proactive measures to align future business plans with realistic revenue targets, fostering more effective and data-driven decision-making across various operational aspects.
 
 
 
